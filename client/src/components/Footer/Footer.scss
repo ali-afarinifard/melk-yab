@@ -1,0 +1,58 @@
+.f-wrapper {
+
+    // background: white;
+    // color: rgb(140 139 139);
+    .f-container {
+        justify-content: space-between;
+        border-top: .5px solid rgb(0, 0, 0, .148);
+    }
+
+    .f-left {
+        gap: 1rem;
+    }
+
+    .f-right {
+        .our-address {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .f-menu {
+            gap: 1.5rem;
+            margin-top: 1.5rem;
+            font-weight: 500;
+
+            span {
+                font-weight: 500;
+            }
+        }
+    }
+
+    .f-bottom {
+        text-align: center;
+        font-size: 1rem;
+        padding-bottom: 1.3rem;
+    }
+}
+
+
+
+// __________#MEDIA QUERIES__________
+@media (max-width: 768px) {
+    .f-wrapper {
+        .f-container {
+            justify-content: center;
+            flex-direction: column;
+
+            >div {
+                align-items: center !important;
+                text-align: center;
+            }
+
+            .f-right {
+                justify-content: center;
+            }
+        }
+    }
+}

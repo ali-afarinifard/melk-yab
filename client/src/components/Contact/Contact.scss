@@ -1,0 +1,169 @@
+.c-wrapper {
+    .c-container {
+        justify-content: space-between;
+
+        >div {
+            flex: 1;
+        }
+
+        .c-left {
+            gap: .5rem;
+
+            .contactModes {
+                margin-top: 2rem;
+                gap: 1rem;
+
+                .row {
+                    gap: 1.5rem;
+
+                    .mode {
+                        width: 16rem;
+                        padding: 1rem;
+                        border: 0.8px solid rgba(128, 128, 128, 0.143);
+                        border-radius: 5px;
+                        gap: 1rem;
+                        transition: all 300ms ease-in;
+
+                        .button {
+                            width: 100%;
+                            background: var(--lightBlue);
+                            color: var(--blue);
+                            font-size: .9rem;
+                            font-weight: 600;
+
+                            &:hover {
+                                background: var(--blue-gradient);
+                                color: white;
+                                scale: 0.8;
+                            }
+                        }
+
+                        >:nth-child(1) {
+                            width: 100%;
+                            gap: 1.6rem;
+                        }
+
+                        .detail {
+                            .primaryText {
+                                font-size: 1.1rem;
+                                font-weight: 600;
+                            }
+                        }
+
+                        &:hover {
+                            scale: 1.1;
+                            box-shadow: var(--shadow);
+                        }
+
+                        .icon {
+                            svg {
+                                fill: var(--blue);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        .c-right {
+            width: 100%;
+
+            .image-container {
+                width: 30rem;
+                height: 35rem;
+                border-radius: 15rem 15rem 0 0;
+                overflow: hidden;
+
+                img {
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+        }
+    }
+}
+
+
+
+// __________#MEDIA QUERIES__________
+@media (max-width: 1080px) {
+    .c-wrapper {
+        .c-container {
+            flex-direction: column-reverse;
+            gap: 2rem;
+
+            .c-left {
+                align-items: center;
+            }
+
+            .c-right {
+                justify-content: center;
+            }
+        }
+    }
+}
+
+
+@media (max-width: 640px) {
+    .c-wrapper {
+        .c-container {
+            .c-right {
+                .image-container {
+                    width: 25rem;
+                    height: 30rem;
+                }
+            }
+        }
+    }
+}
+
+
+
+@media (max-width: 600px) {
+    .c-wrapper {
+        .c-container {
+            .c-left {
+                .contactModes {
+                    .row {
+                        .mode {
+                            width: 13.5rem;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+@media (max-width: 505px) {
+    .c-wrapper {
+        .c-container {
+            .c-left {
+                .contactModes {
+                    .row {
+                        flex-direction: column;
+
+                        .mode {
+                            max-width: 18rem;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+@media (max-width: 400px) {
+    .c-wrapper {
+        .c-container {
+            .c-right {
+                .image-container {
+                    height: 22rem;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,129 @@
+.v-wrapper {
+    .v-container {
+        .image-container {
+            border: 8px solid rgb(232 232 232 / 93%);
+            width: 30rem;
+            height: 35rem;
+            border-radius: 15rem 15rem 0 0;
+            overflow: hidden;
+
+            img {
+                width: 100%;
+                height: 100%;
+            }
+        }
+
+        >div {
+            flex: 1;
+        }
+
+        .v-left {
+            gap: 0.5rem;
+
+            .accordion {
+                margin-top: 2rem;
+                border: none;
+
+                .accordionItem {
+                    background: white;
+                    border: 0.8px solid rgba(128, 128, 128, 0.143);
+                    border-radius: 8px;
+                    margin-bottom: 20px;
+                    overflow: hidden;
+                }
+
+                .expanded {
+                    box-shadow: var(--shadow);
+                    border-radius: 6px;
+                }
+
+                .accordionButton {
+                    background: white;
+                    padding: 1rem;
+                    width: 100%;
+                    justify-content: space-between;
+                    cursor: pointer;
+
+                    .icon {
+                        padding: 10px;
+                        background: #eeeeff;
+                        border-radius: 5px;
+
+                        svg {
+                            fill: var(--blue);
+                        }
+                    }
+
+                    .primaryText {
+                        font-size: 1.1rem;
+                    }
+                }
+            }
+        }
+
+        .secondaryText {
+            line-height: 2rem;
+        }
+    }
+}
+
+
+
+// __________#MEDIA QUERIES__________
+@media (max-width: 1080px) {
+    .v-wrapper {
+        .v-container {
+            flex-direction: column;
+        }
+    }
+}
+
+
+@media (max-width: 768px) {
+    .v-wrapper {
+        .v-container {
+            .v-left {
+                .accordion {
+                    .accordionButton {
+                        .primaryText {
+                            font-size: .8rem;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+@media (max-width: 640px) {
+    .v-wrapper {
+        .v-container {
+            .image-container {
+                width: 95%;
+                height: 30rem;
+            }
+        }
+    }
+}
+
+
+@media (max-width: 400px) {
+    .v-wrapper {
+        .v-container {
+            .image-container {
+                height: 22rem;
+            }
+
+            .v-left {
+                .accordion {
+                    .accordionButton {
+                        .icon {
+                            padding: 5px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

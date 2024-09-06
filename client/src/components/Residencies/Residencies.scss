@@ -1,0 +1,58 @@
+.r-wrapper {
+    .r-container {
+        gap: 2rem;
+        position: relative;
+        overflow: hidden;
+
+        .r-head {
+            margin-bottom: 2rem;
+        }
+
+        .swiper-horizontal {
+            overflow: visible;
+        }
+
+        .r-buttons {
+            position: absolute;
+            top: -4rem;
+            left: 0;
+            gap: 1rem;
+
+            button {
+                font-size: 1.2rem;
+                padding: .2rem .8rem;
+                color: blue;
+                border: none;
+                border-radius: 5px;
+                background: white;
+                cursor: pointer;
+            }
+
+            >:nth-child(1) {
+                background-color: #EEEEFF;
+            }
+
+            >:nth-child(2) {
+                box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.25);
+            }
+        }
+    }
+}
+
+
+
+// __________#MEDIA QUERIES__________
+@media (max-width: 640px) {
+    .r-wrapper {
+        .r-container {
+
+            .r-head {
+                align-items: center;
+            }
+
+            .r-buttons {
+                position: initial;
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+.wrapper {
+    .properties-container {
+        gap: 2rem;
+
+        .search-bar {
+            width: clamp(12rem, 100%, 28rem);
+            border-radius: 30px;
+            border: 1px solid rgba(120, 120, 120, 0.374);
+            flex-wrap: nowrap;
+            padding: 10px 15px;
+            justify-content: space-between;
+
+            >input {
+                width: 70%;
+                border: none;
+                outline: none;
+                font-size: 1rem;
+            }
+
+            .button {
+                border-radius: 30px;
+                font-size: 12px;
+                padding: 10px 15px;
+            }
+        }
+    }
+}

@@ -1,0 +1,434 @@
+[
+  {
+    "_id": {
+      "$oid": "64392d39dfd90fb29e464fb7"
+    },
+    "title": "Luxury Villa Top Hill",
+    "description": "Modern-designed, luxuriously furnished, and fully air-conditioned 5-bedroom villa with free Wi-Fi, panoramic views of natural surroundings and large glass walls toward the infinity pool, spacious living room with a cinema room, and a fully equipped kitchen.",
+    "price": 6000,
+    "address": "Street 1",
+    "city": "Omis",
+    "country": "Croatia",
+    "image": "https://www.home-designing.com/wp-content/uploads/2020/11/unique-outdoor-lights.jpg",
+    "userEmail": "aliafarinifard@outlook.com",
+    "createdAt": {
+      "$date": "2023-04-14T10:38:48.762Z"
+    },
+    "updatedAt": {
+      "$date": "2023-04-14T10:38:48.762Z"
+    },
+    "facilities": {
+      "bathrooms": 5,
+      "parking": 3,
+      "bedrooms": 5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6439001c74446601d6fce96d"
+    },
+    "title": "Luxury Villa in Vienna",
+    "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+    "price": 3000,
+    "address": "Street 3",
+    "city": "Vienna",
+    "country": "Austria",
+    "image": "https://do84cgvgcm805.cloudfront.net/article/362/1200/25cf654358d7812a07902fa42f249dedbec8eb058bdda541c88b9e3b317a93d9.jpg",
+    "userEmail": "aliafarinifard@outlook.com",
+    "createdAt": {
+      "$date": "2023-04-14T07:26:20.051Z"
+    },
+    "updatedAt": {
+      "$date": "2023-04-14T07:26:20.051Z"
+    },
+    "facilities": {
+      "bathrooms": 7,
+      "parking": 5,
+      "bedrooms": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64392e1edfd90fb29e464fbd"
+    },
+    "title": "Autumn Mist Cottage",
+    "description": "Would you like to make your summer holiday in Croatia a very special experience, well deserved after the last very stressful months and, above all. Immerse yourself in the world of modern architecture and convince yourself! take a look at our range of modern villas in Croatia and let every single villa speak for itself.",
+    "price": 3800,
+    "address": "Street 4",
+    "city": "Tehran",
+    "country": "Iran",
+    "image": "https://www.home-designing.com/wp-content/uploads/2015/11/glass-house-with-pool.jpg",
+    "userEmail": "aliafarinifard@outlook.com",
+    "createdAt": {
+      "$date": "2023-04-14T10:42:37.946Z"
+    },
+    "updatedAt": {
+      "$date": "2023-04-14T10:42:37.946Z"
+    },
+    "facilities": {
+      "bathrooms": 4,
+      "parking": 5,
+      "bedrooms": 3
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64392d67dfd90fb29e464fb8"
+    },
+    "title": "Rustic Pine Lodge",
+    "description": "Experience Croatia from its luxurious side and discover the modern villas along the Croatian Adriatic coast. Spend your vacation in one of these unique villas and none of your wishes will remain unfulfilled. What makes a holiday in a modern villa so unique? What is it that arouses our interest and enthusiasm for modern luxury villas?",
+    "price": 7050,
+    "address": "Street 5",
+    "city": "San Francisco",
+    "country": "United States",
+    "image": "https://www.adriaticluxuryvillas.com/uploads/images/our-top-picks-of-modern-villas-in-croatia-for-summer-2021-1616589455140.jpeg",
+    "userEmail": "aliafarinifard@outlook.com",
+    "createdAt": {
+      "$date": "2023-04-14T10:39:35.044Z"
+    },
+    "updatedAt": {
+      "$date": "2023-04-14T10:39:35.044Z"
+    },
+    "facilities": {
+      "bathrooms": 4,
+      "parking": 1,
+      "bedrooms": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64392df2dfd90fb29e464fbb"
+    },
+    "title": "Luxury Villa in Mazandaran",
+    "description": "Top Hill Villa in Mazandaran, Iran by Samir Eisazadeh Architect. In the design of this villa, according to the location of the land, which was a sloping hill, It created a big challenge for us Therefore, we tried to have a minimum of excavation and the villa to be located on the main slope of the land without the least damage to the environment.",
+    "price": 10000,
+    "address": "Street 6",
+    "city": "Mazandaran",
+    "country": "Iran",
+    "image": "https://control.ksmarbella.com/wp-content/uploads/2022/06/KSSIR-26630P_15640770.jpg",
+    "userEmail": "aliafarinifard@outlook.com",
+    "createdAt": {
+      "$date": "2023-04-14T10:41:54.156Z"
+    },
+    "updatedAt": {
+      "$date": "2023-04-14T10:41:54.156Z"
+    },
+    "facilities": {
+      "bathrooms": 10,
+      "parking": 4,
+      "bedrooms": 7
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64392e32dfd90fb29e464fbe"
+    },
+    "title": "Riverstone Manor",
+    "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+    "price": 3500,
+    "address": "Street 7",
+    "city": "New York",
+    "country": "United States",
+    "image": "https://www.qvillas.com/wp-content/uploads/2023/09/EEG-Boulevard-28-True-media-culture-133-1-1024x683.jpg",
+    "userEmail": "aliafarinifard@outlook.com",
+    "createdAt": {
+      "$date": "2023-04-14T10:42:58.826Z"
+    },
+    "updatedAt": {
+      "$date": "2023-04-14T10:42:58.826Z"
+    },
+    "facilities": {
+      "bathrooms": 3,
+      "parking": 1,
+      "bedrooms": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64392e46dfd90fb29e464fbf"
+    },
+    "title": "Summerhill Estate",
+    "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+    "price": 2000,
+    "address": "Street 8",
+    "city": "Vienna",
+    "country": "Austria",
+    "image": "https://www.10stunninghomes.com/wp-content/uploads/luxurious-villa-vienna.jpg",
+    "userEmail": "aliafarinifard@outlook.com",
+    "createdAt": {
+      "$date": "2023-04-14T10:43:18.186Z"
+    },
+    "updatedAt": {
+      "$date": "2023-04-14T10:43:18.186Z"
+    },
+    "facilities": {
+      "bathrooms": 8,
+      "parking": 4,
+      "bedrooms": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64392e57dfd90fb29e464fc0"
+    },
+    "title": "Crimson Peak Chalet",
+    "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+    "price": 2000,
+    "address": "Street 9",
+    "city": "Zermatt",
+    "country": "Siwitzerland",
+    "image": "https://im.proptiger.com/1/641405/6/rmz-builders-sawaan-elevation-736260.jpeg",
+    "userEmail": "aliafarinifard@outlook.com",
+    "createdAt": {
+      "$date": "2023-04-14T10:43:35.761Z"
+    },
+    "updatedAt": {
+      "$date": "2023-04-14T10:43:35.761Z"
+    },
+    "facilities": {
+      "bathrooms": 5,
+      "parking": 1,
+      "bedrooms": 5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64392e69dfd90fb29e464fc1"
+    },
+    "title": "Cedar Ridge Ranch",
+    "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+    "price": 2000,
+    "address": "Street 10",
+    "city": "Balearic Islands",
+    "country": "Spain",
+    "image": "https://luxuryhomeoman.com/wp-content/uploads/2016/08/01-Roca-Llisa-Luxury-Villa-Ibiza-Balearic-Islands-Spain-1840x900.jpg",
+    "userEmail": "aliafarinifard@outlook.com",
+    "createdAt": {
+      "$date": "2023-04-14T10:43:53.665Z"
+    },
+    "updatedAt": {
+      "$date": "2023-04-14T10:43:53.665Z"
+    },
+    "facilities": {
+      "bathrooms": 3,
+      "parking": 2,
+      "bedrooms": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "643a30b60c4348510952923a"
+    },
+    "title": "Modern Marvel Mansion",
+    "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+    "price": 2000,
+    "address": "Street 11",
+    "city": "Sydney",
+    "country": "Australia",
+    "image": "https://res.akamaized.net/domain/image/upload/t_web/v1661753898/14_Dorset_Rd_Northbridge_NSW_7_cgljhx.jpg",
+    "userEmail": "aliafarinifard@outlook.com",
+    "createdAt": {
+      "$date": "2023-04-15T05:05:58.189Z"
+    },
+    "updatedAt": {
+      "$date": "2023-04-15T05:05:58.189Z"
+    },
+    "facilities": {
+      "bathrooms": 3,
+      "parking": 1,
+      "bedrooms": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "643900fa74446601d6fce96e"
+    },
+    "title": "Whispering Willow Estate",
+    "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+    "price": 4000,
+    "address": "Street 12",
+    "city": "New York",
+    "country": "United States",
+    "image": "https://www.tigervillas.com/uploads/DENiZ-MANZARALi-ViLLA-ViLLA-GEZEGENi-2_249.jpg?l=0",
+    "userEmail": "aliafarinifard@outlook.com",
+    "createdAt": {
+      "$date": "2023-04-14T07:29:58.262Z"
+    },
+    "updatedAt": {
+      "$date": "2023-04-14T07:29:58.262Z"
+    },
+    "facilities": {
+      "bathrooms": 12,
+      "parking": 9,
+      "bedrooms": 10
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6439011d74446601d6fce96f"
+    },
+    "title": "Blue Horizon Manor",
+    "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+    "price": 2500,
+    "address": "Street 13",
+    "city": "Sydney",
+    "country": "Australia",
+    "image": "https://camelothomes.com.au/wp-content/themes/yootheme/cache/Camelot-Homes-Home-Luxury-Living-Home-Pool-Deck-24103b76.jpeg",
+    "userEmail": "aliafarinifard@outlook.com",
+    "createdAt": {
+      "$date": "2023-04-14T07:30:36.761Z"
+    },
+    "updatedAt": {
+      "$date": "2023-04-14T07:30:36.761Z"
+    },
+    "facilities": {
+      "bathrooms": 6,
+      "parking": 3,
+      "bedrooms": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64392ddddfd90fb29e464fba"
+    },
+    "title": "Golden Fields Ranch",
+    "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+    "price": 4000,
+    "address": "Street 14",
+    "city": "San Francisco",
+    "country": "United States",
+    "image": "https://www.impressiveinteriordesign.com/wp-content/uploads/2014/11/The-Kew-House-3-by-Vibe-Design-Group.jpg",
+    "userEmail": "aliafarinifard@outlook.com",
+    "createdAt": {
+      "$date": "2023-04-14T10:41:32.998Z"
+    },
+    "updatedAt": {
+      "$date": "2023-04-14T10:41:32.998Z"
+    },
+    "facilities": {
+      "bathrooms": 5,
+      "parking": 1,
+      "bedrooms": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6438ffdd74446601d6fce96c"
+    },
+    "title": "Asatti Garden City",
+    "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+    "price": 2000,
+    "address": "Street 15",
+    "city": "California",
+    "country": "United States",
+    "image": "https://cdn.thepropertyagent.casa/wp-content/uploads/2018/06/The-Property-Agent-Villa-California-1.jpg",
+    "userEmail": "aliafarinifard@outlook.com",
+    "createdAt": {
+      "$date": "2023-04-14T07:25:13.156Z"
+    },
+    "updatedAt": {
+      "$date": "2023-04-14T07:25:13.156Z"
+    },
+    "facilities": {
+      "bathrooms": 13,
+      "parking": 6,
+      "bedrooms": 13
+    }
+  },
+  {
+    "_id": {
+      "$oid": "645cd0d8616ffb7ce699bb8e"
+    },
+    "title": "Josef Villa",
+    "description": "Villa is a marvelous piece of luxury and Art. Decorated with two helipads, wide compartment, long sea view and astonishing paints make it more bold.",
+    "price": 8000,
+    "address": "Street 16",
+    "city": "Washington",
+    "country": "United States",
+    "image": "https://archello.s3.eu-central-1.amazonaws.com/images/2019/01/11/20150203-KingAlbert-325-973-HR-HR-Edit.1547195902.8028.jpg",
+    "userEmail": "aliafarinifard@outlook.com",
+    "createdAt": {
+      "$date": "2023-05-11T11:26:15.44Z"
+    },
+    "updatedAt": {
+      "$date": "2023-05-11T11:26:15.44Z"
+    },
+    "facilities": {
+      "bedrooms": 12,
+      "parkings": 2,
+      "bathrooms": 3
+    }
+  },
+  {
+    "_id": {
+      "$oid": "645e27938b90ba42adbed599"
+    },
+    "title": "The Johnson Palace",
+    "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+    "price": 5000,
+    "address": "Street 17",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "image": "https://robbreport.com/wp-content/uploads/2021/06/12258Filbert.jpg?w=1000",
+    "userEmail": "aliafarinifard@outlook.com",
+    "createdAt": {
+      "$date": "2023-05-12T11:48:35.028Z"
+    },
+    "updatedAt": {
+      "$date": "2023-05-12T11:48:35.028Z"
+    },
+    "facilities": {
+      "bedrooms": 5,
+      "parkings": 2,
+      "bathrooms": 5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6460802e05fa5b3fd0527f65"
+    },
+    "title": "ZKC Villa ",
+    "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+    "price": 5000,
+    "address": "Street 18",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473296975.jpg?k=d66796d0c65d527bfc9b69bd22ca75728ff4ea96bf319667f059f1c709f14adb&o=&hp=1",
+    "userEmail": "aliafarinifard@outlook.com",
+    "createdAt": {
+      "$date": "2023-05-14T06:31:09.883Z"
+    },
+    "updatedAt": {
+      "$date": "2023-05-14T06:31:09.883Z"
+    },
+    "facilities": {
+      "bedrooms": 3,
+      "parkings": 1,
+      "bathrooms": 3
+    }
+  },
+  {
+    "_id": {
+      "$oid": "648a1ed5d52203e45f037608"
+    },
+    "title": "Beautiful House",
+    "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+    "price": 10000,
+    "address": "Street 19",
+    "city": "Chicago",
+    "country": "United States",
+    "image": "https://westernaustralia.poolandoutdoordesign.com.au/wp-content/uploads/2017/09/hillamarchitectshero.jpg",
+    "userEmail": "aliafarinifard@outlook.com",
+    "createdAt": {
+      "$date": "2023-06-14T20:11:01.081Z"
+    },
+    "updatedAt": {
+      "$date": "2023-06-14T20:11:01.081Z"
+    },
+    "facilities": {
+      "bedrooms": 5,
+      "parkings": 5,
+      "bathrooms": 8
+    }
+  }
+]
